@@ -10,19 +10,14 @@ target_values = theano.tensor.fvector('target_values') #theano variable represen
 #This is just a template: it does not learn anything, and always returns the digit "0":
 delta = 0.1
 
-W_intial_values = numpy.zeros((10,784))
-params = theano.shared(W_intial_values, 'params')
-
-activations = dot(params, input_vector)
+W_initial_values = numpy.zeros((10, 28*28))
+W = theano.shared(W_initial_values, 'W')
+activations = dot(W, input_vector)
 predicted_values = sigmoid(activations)
-
-theano.config.on_unused_input='ignore'
-predicted_class = argmax(predicted_values)
 Accuracy = -sqr(predicted_values - target_values).sum()
-
-
-gradients = grad(Accuracy, params)
-updates = [ (params, params + delta * gradients)]
+predicted_class = argmax(predicted_values)
+gradients = grad(Accuracy, W)
+updates = [(W, W + delta * gradients)]
 #Change this to something meaningful and it will work!
 
 # defining Theano functions for training and testing the model:
