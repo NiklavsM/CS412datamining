@@ -63,24 +63,24 @@ print(differentiate(0, 0, 1))
 #     output = f()
 #     print(output)
 
-# input_vector = fvector('input_vector')
-# target_values = fvector('target_vector')
-#
-# W_initial_values = numpy.zeros((5, 2))
-# W = theano.shared(W_initial_values, 'W')
-# activations = dot(W, input_vector)
-# predicted_values = sigmoid(activations)
-# Accuracy = -sqr(predicted_values - target_values).sum()
-# predicted_class = argmax(predicted_values)
-# gradients = grad(Accuracy, W)
-# updates = [(W, W + .1 * gradients)]
-#
-# train = theano.function([input_vector, target_values],
-#                         [W, activations, predicted_values, predicted_class, Accuracy, gradients],
-#                         updates=updates, allow_input_downcast=True)
-#
-# data_vector = [1., 0.]
-# target_vector = [0, 0, 0, 0, 1]
-# W, activations, predicted_values, predicted_class, Accuracy, gradients = train(data_vector, target_vector)
-# print(W, activations, predicted_values, predicted_class, Accuracy)
-# print(gradients)
+input_vector = fvector('input_vector')
+target_values = fvector('target_vector')
+
+W_initial_values = numpy.zeros((5, 2))
+W = theano.shared(W_initial_values, 'W')
+activations = dot(W, input_vector)
+predicted_values = sigmoid(activations)
+Accuracy = -sqr(predicted_values - target_values).sum()
+predicted_class = argmax(predicted_values)
+gradients = grad(Accuracy, W)
+updates = [(W, W + .1 * gradients)]
+
+train = theano.function([input_vector, target_values],
+                        [W, activations, predicted_values, predicted_class, Accuracy, gradients],
+                        updates=updates, allow_input_downcast=True)
+
+data_vector = [1., 0.]
+target_vector = [0, 0, 0, 0, 1]
+W, activations, predicted_values, predicted_class, Accuracy, gradients = train(data_vector, target_vector)
+print(W, activations, predicted_values, predicted_class, Accuracy)
+print(gradients)
