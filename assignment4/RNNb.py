@@ -6,7 +6,7 @@ import numpy
 #Total number of classes we need to map our sequences to.
 n_classes = 2 # For example two classes: positive or negative (or true/false)
 # We can change that later when needed
-n_words = 0 # Total number of words we can support
+n_words = 200 # Total number of words we can support
 
 #We represent the input sequence as a vector of integers (word id-s):
 input_indices = theano.tensor.ivector('input_indices')
@@ -14,16 +14,29 @@ input_indices = theano.tensor.ivector('input_indices')
 target_class = theano.tensor.iscalar('target_class') #e.g. could be sentiment level
 #All words in the language are represented as trainable vectors:
 word_embedding_size = 50    #the size of those vectors
-word_embeddings = theano.shared(numpy.zeros((n_words, word_embedding_size)), 'word_embeddings')
+rng = numpy.random.RandomState(0)
+vals = numpy.asarray(rng.normal(loc=0.0, scale=0.1, size=(n_words, word_embedding_size)))
+word_embeddings = theano.shared(vals, 'word_embeddings')
 #This represents the input sequence (e.g. a sentence):
 input_vectors = word_embeddings[input_indices]
 
 #This is just a template: it does not learn anything, and always returns the class "0":
-params = [word_embeddings] # - Our trainable parameters. We may add more to this list.
-updates = []
+W0 = theano.shared(numpy.zeros((n_words, word_embedding_size)), 'W0')
+W1 = theano.shared(numpy.zeros((n_words, word_embedding_size)), 'W1')
+W2 = theano.shared(numpy.zeros((n_words, word_embedding_size)), 'W2')
+activations = theano.tensor.dot(W0,input_vectors[0]) + theano.tensor.dot(W1, input_vectors[1]) + theano.tensor.dot(W2, input_vectors[2])
+predicted_class = theano.tensor.argmax(activations)
+output = theano.tensor.nnet.softmax(activations)[0]
+cost = -theano.tensor.log(output[target_class])
+updates = [
+    (word_embeddings,word_embeddings - .1*theano.tensor.grad(cost,word_embeddings)),
+    (W0, W0 - .1*theano.tensor.grad(cost,W0)),
+    (W1, W1 - .1*theano.tensor.grad(cost,W1)),
+    (W2, W1 - .1*theano.tensor.grad(cost,W2))
+]
 theano.config.on_unused_input='ignore'
-predicted_class = theano.shared(0, 'predicted_class')
-Accuracy = theano.shared(0, 'Accuracy')
+Accuracy = -cost
+#it is bad
 #Change this to something meaningful and it will work!
 
 train = theano.function([input_indices, target_class], [Accuracy, predicted_class], updates=updates, allow_input_downcast = True)
