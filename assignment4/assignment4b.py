@@ -7,21 +7,18 @@ input_indicies = ivector('input_indices')
 vals = numpy.zeros((5, 5))
 for i in range(5):
     vals[i][i] = 1
-# vals[0][1] = 1
+
 print("word_embeddings: \n", vals)
 word_embeddings = theano.shared(vals, 'word_embeddings')
-input_vectors = word_embeddings[input_indicies] ## ?
+input_vectors = word_embeddings[input_indicies]  ## ?
 recurrent_size = 5
-# W_x_Vals = numpy.zeros((5, 5))
-# for i in range(5):
-#     for k in range(5):
-#          W_x_Vals[i][k] = 1
+
 W_x = theano.shared(numpy.ones((5, 5)), 'W_x')
 
-print("input_vectors " , word_embeddings.eval())
+print("input_vectors ", word_embeddings.eval())
+
+
 def rnn_step(x, h_prev, W_x):
-    # print("w_x ", W_x.get_value())
-    # print("x ", x)
     return h_prev + theano.tensor.dot(x, W_x)
 
 

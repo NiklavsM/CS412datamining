@@ -26,7 +26,7 @@ context_vector, other_info = theano.scan(
 )
 context_vector = context_vector[-1]
 map_sequence = theano.function([input_indicies], [input_vectors, context_vector], updates=[])
-vectors, context = map_sequence([0, 1, 0])
+vectors, context = map_sequence([0, 1, 2])
 print("Input vectors:\n", vectors, "\n are mapped into the context vector:\n", context)
 
 
