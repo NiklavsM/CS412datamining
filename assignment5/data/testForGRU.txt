@@ -1,0 +1,1228 @@
+there	
+is	there
+a	there is
+tower	there is a
+which	there is a tower
+has	there is a tower which
+two	there is a tower which has
+black	there is a tower which has two
+blocks	there is a tower which has two black
+</s>	there is a tower which has two black blocks
+there	
+is	there
+exactly	there is
+one	there is exactly
+circle	there is exactly one
+closely	there is exactly one circle
+touching	there is exactly one circle closely
+right	there is exactly one circle closely touching
+wall	there is exactly one circle closely touching right
+of	there is exactly one circle closely touching right wall
+a	there is exactly one circle closely touching right wall of
+box	there is exactly one circle closely touching right wall of a
+</s>	there is exactly one circle closely touching right wall of a box
+there	
+is	there
+1	there is
+box	there is 1
+with	there is 1 box
+1	there is 1 box with
+yellow	there is 1 box with 1
+item	there is 1 box with 1 yellow
+and	there is 1 box with 1 yellow item
+1	there is 1 box with 1 yellow item and
+blue	there is 1 box with 1 yellow item and 1
+item	there is 1 box with 1 yellow item and 1 blue
+</s>	there is 1 box with 1 yellow item and 1 blue item
+there	
+is	there
+a	there is
+four	there is a
+blocks	there is a four
+tower	there is a four blocks
+that	there is a four blocks tower
+the	there is a four blocks tower that
+base	there is a four blocks tower that the
+and	there is a four blocks tower that the base
+top	there is a four blocks tower that the base and
+is	there is a four blocks tower that the base and top
+yellow	there is a four blocks tower that the base and top is
+</s>	there is a four blocks tower that the base and top is yellow
+two	
+of	two
+the	two of
+three	two of the
+towers	two of the three
+has	two of the three towers
+a	two of the three towers has
+black	two of the three towers has a
+top	two of the three towers has a black
+</s>	two of the three towers has a black top
+there	
+is	there
+only	there is
+one	there is only
+black	there is only one
+item	there is only one black
+closely	there is only one black item
+touching	there is only one black item closely
+the	there is only one black item closely touching
+bottom	there is only one black item closely touching the
+of	there is only one black item closely touching the bottom
+a	there is only one black item closely touching the bottom of
+box	there is only one black item closely touching the bottom of a
+</s>	there is only one black item closely touching the bottom of a box
+there	
+is	there
+at	there is
+least	there is at
+one	there is at least
+yellow	there is at least one
+block	there is at least one yellow
+on	there is at least one yellow block
+a	there is at least one yellow block on
+black	there is at least one yellow block on a
+block	there is at least one yellow block on a black
+</s>	there is at least one yellow block on a black block
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+a	there is a box with
+black	there is a box with a
+triangle	there is a box with a black
+at	there is a box with a black triangle
+least	there is a box with a black triangle at
+one	there is a box with a black triangle at least
+blue	there is a box with a black triangle at least one
+circle	there is a box with a black triangle at least one blue
+and	there is a box with a black triangle at least one blue circle
+yellow	there is a box with a black triangle at least one blue circle and
+items	there is a box with a black triangle at least one blue circle and yellow
+</s>	there is a box with a black triangle at least one blue circle and yellow items
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+a	there is a box with
+blue	there is a box with a
+square	there is a box with a blue
+and	there is a box with a blue square
+a	there is a box with a blue square and
+black	there is a box with a blue square and a
+circle	there is a box with a blue square and a black
+</s>	there is a box with a blue square and a black circle
+there	
+is	there
+no	there is
+black	there is no
+triangle	there is no black
+closely	there is no black triangle
+touching	there is no black triangle closely
+right	there is no black triangle closely touching
+wall	there is no black triangle closely touching right
+of	there is no black triangle closely touching right wall
+a	there is no black triangle closely touching right wall of
+box	there is no black triangle closely touching right wall of a
+</s>	there is no black triangle closely touching right wall of a box
+there	
+are	there
+two	there are
+yellow	there are two
+items	there are two yellow
+touching	there are two yellow items
+each	there are two yellow items touching
+other	there are two yellow items touching each
+</s>	there are two yellow items touching each other
+there	
+is	there
+a	there is
+box	there is a
+which	there is a box
+has	there is a box which
+three	there is a box which has
+items	there is a box which has three
+</s>	there is a box which has three items
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+a	there is a box with
+blue	there is a box with a
+item	there is a box with a blue
+touching	there is a box with a blue item
+the	there is a box with a blue item touching
+wall	there is a box with a blue item touching the
+and	there is a box with a blue item touching the wall
+a	there is a box with a blue item touching the wall and
+black	there is a box with a blue item touching the wall and a
+one	there is a box with a blue item touching the wall and a black
+right	there is a box with a blue item touching the wall and a black one
+on	there is a box with a blue item touching the wall and a black one right
+top	there is a box with a blue item touching the wall and a black one right on
+of	there is a box with a blue item touching the wall and a black one right on top
+it	there is a box with a blue item touching the wall and a black one right on top of
+</s>	there is a box with a blue item touching the wall and a black one right on top of it
+at	
+least	at
+one	at least
+of	at least one
+the	at least one of
+grey	at least one of the
+square	at least one of the grey
+contains	at least one of the grey square
+exactly	at least one of the grey square contains
+one	at least one of the grey square contains exactly
+object	at least one of the grey square contains exactly one
+which	at least one of the grey square contains exactly one object
+is	at least one of the grey square contains exactly one object which
+a	at least one of the grey square contains exactly one object which is
+triangle	at least one of the grey square contains exactly one object which is a
+</s>	at least one of the grey square contains exactly one object which is a triangle
+the	
+grey	the
+box	the grey
+with	the grey box
+least	the grey box with
+number	the grey box with least
+of	the grey box with least number
+objects	the grey box with least number of
+contains	the grey box with least number of objects
+one	the grey box with least number of objects contains
+blue	the grey box with least number of objects contains one
+circle	the grey box with least number of objects contains one blue
+</s>	the grey box with least number of objects contains one blue circle
+there	
+is	there
+1	there is
+tower	there is 1
+with	there is 1 tower
+at	there is 1 tower with
+least	there is 1 tower with at
+1	there is 1 tower with at least
+yellow	there is 1 tower with at least 1
+block	there is 1 tower with at least 1 yellow
+</s>	there is 1 tower with at least 1 yellow block
+black	
+square	black
+is	black square
+not	black square is
+touching	black square is not
+any	black square is not touching
+edge	black square is not touching any
+</s>	black square is not touching any edge
+there	
+is	there
+1	there is
+tower	there is 1
+that	there is 1 tower
+is	there is 1 tower that
+made	there is 1 tower that is
+of	there is 1 tower that is made
+only	there is 1 tower that is made of
+1	there is 1 tower that is made of only
+block	there is 1 tower that is made of only 1
+</s>	there is 1 tower that is made of only 1 block
+there	
+is	there
+one	there is
+tower	there is one
+with	there is one tower
+exactly	there is one tower with
+two	there is one tower with exactly
+objects	there is one tower with exactly two
+</s>	there is one tower with exactly two objects
+there	
+is	there
+1	there is
+tower	there is 1
+with	there is 1 tower
+1	there is 1 tower with
+black	there is 1 tower with 1
+block	there is 1 tower with 1 black
+at	there is 1 tower with 1 black block
+the	there is 1 tower with 1 black block at
+base	there is 1 tower with 1 black block at the
+</s>	there is 1 tower with 1 black block at the base
+there	
+is	there
+a	there is
+tower	there is a
+which	there is a tower
+has	there is a tower which
+a	there is a tower which has
+blue	there is a tower which has a
+block	there is a tower which has a blue
+over	there is a tower which has a blue block
+a	there is a tower which has a blue block over
+blue	there is a tower which has a blue block over a
+block	there is a tower which has a blue block over a blue
+</s>	there is a tower which has a blue block over a blue block
+there	
+is	there
+at	there is
+least	there is at
+one	there is at least
+blue	there is at least one
+block	there is at least one blue
+as	there is at least one blue block
+the	there is at least one blue block as
+top	there is at least one blue block as the
+of	there is at least one blue block as the top
+a	there is at least one blue block as the top of
+tower	there is at least one blue block as the top of a
+</s>	there is at least one blue block as the top of a tower
+there	
+are	there
+2	there are
+blue	there are 2
+triangles	there are 2 blue
+and	there are 2 blue triangles
+2	there are 2 blue triangles and
+black	there are 2 blue triangles and 2
+triangles	there are 2 blue triangles and 2 black
+</s>	there are 2 blue triangles and 2 black triangles
+there	
+are	there
+exactly	there are
+two	there are exactly
+towers	there are exactly two
+with	there are exactly two towers
+a	there are exactly two towers with
+black	there are exactly two towers with a
+block	there are exactly two towers with a black
+at	there are exactly two towers with a black block
+the	there are exactly two towers with a black block at
+base	there are exactly two towers with a black block at the
+</s>	there are exactly two towers with a black block at the base
+there	
+is	there
+at	there is
+least	there is at
+one	there is at least
+tower	there is at least one
+with	there is at least one tower
+four	there is at least one tower with
+blocks	there is at least one tower with four
+</s>	there is at least one tower with four blocks
+there	
+is	there
+1	there is
+box	there is 1
+with	there is 1 box
+exactly	there is 1 box with
+1	there is 1 box with exactly
+circle	there is 1 box with exactly 1
+in	there is 1 box with exactly 1 circle
+it	there is 1 box with exactly 1 circle in
+</s>	there is 1 box with exactly 1 circle in it
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+a	there is a box with
+yellow	there is a box with a
+square	there is a box with a yellow
+and	there is a box with a yellow square
+two	there is a box with a yellow square and
+black	there is a box with a yellow square and two
+squares	there is a box with a yellow square and two black
+</s>	there is a box with a yellow square and two black squares
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+exactly	there is a box with
+three	there is a box with exactly
+items	there is a box with exactly three
+including	there is a box with exactly three items
+blue	there is a box with exactly three items including
+square	there is a box with exactly three items including blue
+</s>	there is a box with exactly three items including blue square
+there	
+is	there
+a	there is
+triangle	there is a
+closely	there is a triangle
+touching	there is a triangle closely
+the	there is a triangle closely touching
+bottom	there is a triangle closely touching the
+of	there is a triangle closely touching the bottom
+a	there is a triangle closely touching the bottom of
+box	there is a triangle closely touching the bottom of a
+</s>	there is a triangle closely touching the bottom of a box
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+3	there is a box with
+items	there is a box with 3
+at	there is a box with 3 items
+most	there is a box with 3 items at
+of	there is a box with 3 items at most
+2	there is a box with 3 items at most of
+different	there is a box with 3 items at most of 2
+colors	there is a box with 3 items at most of 2 different
+at	there is a box with 3 items at most of 2 different colors
+most	there is a box with 3 items at most of 2 different colors at
+</s>	there is a box with 3 items at most of 2 different colors at most
+all	
+yellow	all
+circles	all yellow
+are	all yellow circles
+touching	all yellow circles are
+the	all yellow circles are touching
+edge	all yellow circles are touching the
+</s>	all yellow circles are touching the edge
+there	
+is	there
+a	there is
+tower	there is a
+with	there is a tower
+two	there is a tower with
+yellow	there is a tower with two
+blocks	there is a tower with two yellow
+</s>	there is a tower with two yellow blocks
+there	
+is	there
+1	there is
+tower	there is 1
+with	there is 1 tower
+at	there is 1 tower with
+least	there is 1 tower with at
+1	there is 1 tower with at least
+black	there is 1 tower with at least 1
+block	there is 1 tower with at least 1 black
+</s>	there is 1 tower with at least 1 black block
+there	
+are	there
+2	there are
+squares	there are 2
+with	there are 2 squares
+1	there are 2 squares with
+black	there are 2 squares with 1
+item	there are 2 squares with 1 black
+</s>	there are 2 squares with 1 black item
+there	
+is	there
+at	there is
+least	there is at
+1	there is at least
+tower	there is at least 1
+with	there is at least 1 tower
+a	there is at least 1 tower with
+yellow	there is at least 1 tower with a
+block	there is at least 1 tower with a yellow
+at	there is at least 1 tower with a yellow block
+the	there is at least 1 tower with a yellow block at
+bottom	there is at least 1 tower with a yellow block at the
+</s>	there is at least 1 tower with a yellow block at the bottom
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+at	there is a box with
+least	there is a box with at
+three	there is a box with at least
+blue	there is a box with at least three
+items	there is a box with at least three blue
+</s>	there is a box with at least three blue items
+there	
+are	there
+two	there are
+yellow	there are two
+blocks	there are two yellow
+as	there are two yellow blocks
+the	there are two yellow blocks as
+base	there are two yellow blocks as the
+of	there are two yellow blocks as the base
+a	there are two yellow blocks as the base of
+tower	there are two yellow blocks as the base of a
+</s>	there are two yellow blocks as the base of a tower
+there	
+is	there
+exactly	there is
+one	there is exactly
+black	there is exactly one
+triangle	there is exactly one black
+not	there is exactly one black triangle
+touching	there is exactly one black triangle not
+the	there is exactly one black triangle not touching
+edge	there is exactly one black triangle not touching the
+</s>	there is exactly one black triangle not touching the edge
+there	
+are	there
+only	there are
+two	there are only
+towers	there are only two
+with	there are only two towers
+yellow	there are only two towers with
+blocks	there are only two towers with yellow
+and	there are only two towers with yellow blocks
+at	there are only two towers with yellow blocks and
+least	there are only two towers with yellow blocks and at
+one	there are only two towers with yellow blocks and at least
+of	there are only two towers with yellow blocks and at least one
+them	there are only two towers with yellow blocks and at least one of
+has	there are only two towers with yellow blocks and at least one of them
+yellow	there are only two towers with yellow blocks and at least one of them has
+block	there are only two towers with yellow blocks and at least one of them has yellow
+as	there are only two towers with yellow blocks and at least one of them has yellow block
+the	there are only two towers with yellow blocks and at least one of them has yellow block as
+top	there are only two towers with yellow blocks and at least one of them has yellow block as the
+of	there are only two towers with yellow blocks and at least one of them has yellow block as the top
+a	there are only two towers with yellow blocks and at least one of them has yellow block as the top of
+tower	there are only two towers with yellow blocks and at least one of them has yellow block as the top of a
+</s>	there are only two towers with yellow blocks and at least one of them has yellow block as the top of a tower
+there	
+are	there
+exactly	there are
+three	there are exactly
+black	there are exactly three
+circles	there are exactly three black
+not	there are exactly three black circles
+touching	there are exactly three black circles not
+any	there are exactly three black circles not touching
+edge	there are exactly three black circles not touching any
+</s>	there are exactly three black circles not touching any edge
+there	
+is	there
+a	there is
+back	there is a
+block	there is a back
+of	there is a back block
+at	there is a back block of
+least	there is a back block of at
+one	there is a back block of at least
+tower	there is a back block of at least one
+</s>	there is a back block of at least one tower
+there	
+are	there
+at	there are
+least	there are at
+4	there are at least
+black	there are at least 4
+blocks	there are at least 4 black
+</s>	there are at least 4 black blocks
+there	
+is	there
+a	there is
+tower	there is a
+with	there is a tower
+more	there is a tower with
+than	there is a tower with more
+two	there is a tower with more than
+blocks	there is a tower with more than two
+having	there is a tower with more than two blocks
+a	there is a tower with more than two blocks having
+yellow	there is a tower with more than two blocks having a
+block	there is a tower with more than two blocks having a yellow
+at	there is a tower with more than two blocks having a yellow block
+base	there is a tower with more than two blocks having a yellow block at
+</s>	there is a tower with more than two blocks having a yellow block at base
+there	
+is	there
+block	there is
+which	there is block
+has	there is block which
+an	there is block which has
+exactly	there is block which has an
+one	there is block which has an exactly
+object	there is block which has an exactly one
+which	there is block which has an exactly one object
+is	there is block which has an exactly one object which
+of	there is block which has an exactly one object which is
+yellow	there is block which has an exactly one object which is of
+color	there is block which has an exactly one object which is of yellow
+</s>	there is block which has an exactly one object which is of yellow color
+there	
+is	there
+a	there is
+blue	there is a
+block	there is a blue
+below	there is a blue block
+a	there is a blue block below
+yellow	there is a blue block below a
+block	there is a blue block below a yellow
+</s>	there is a blue block below a yellow block
+there	
+are	there
+two	there are
+items	there are two
+closely	there are two items
+touching	there are two items closely
+the	there are two items closely touching
+bottom	there are two items closely touching the
+of	there are two items closely touching the bottom
+a	there are two items closely touching the bottom of
+box	there are two items closely touching the bottom of a
+</s>	there are two items closely touching the bottom of a box
+there	
+is	there
+exactly	there is
+one	there is exactly
+black	there is exactly one
+triangle	there is exactly one black
+touching	there is exactly one black triangle
+the	there is exactly one black triangle touching
+base	there is exactly one black triangle touching the
+</s>	there is exactly one black triangle touching the base
+there	
+is	there
+no	there is
+tower	there is no
+with	there is no tower
+three	there is no tower with
+blocks	there is no tower with three
+</s>	there is no tower with three blocks
+there	
+are	there
+black	there are
+blocks	there are black
+in	there are black blocks
+each	there are black blocks in
+tower	there are black blocks in each
+and	there are black blocks in each tower
+the	there are black blocks in each tower and
+positions	there are black blocks in each tower and the
+are	there are black blocks in each tower and the positions
+the	there are black blocks in each tower and the positions are
+same	there are black blocks in each tower and the positions are the
+</s>	there are black blocks in each tower and the positions are the same
+there	
+is	there
+a	there is
+single	there is a
+block	there is a single
+tower	there is a single block
+and	there is a single block tower
+the	there is a single block tower and
+color	there is a single block tower and the
+is	there is a single block tower and the color
+yellow	there is a single block tower and the color is
+</s>	there is a single block tower and the color is yellow
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+only	there is a box with
+yellow	there is a box with only
+items	there is a box with only yellow
+</s>	there is a box with only yellow items
+there	
+is	there
+one	there is
+tower	there is one
+which	there is one tower
+has	there is one tower which
+a	there is one tower which has
+black	there is one tower which has a
+block	there is one tower which has a black
+over	there is one tower which has a black block
+a	there is one tower which has a black block over
+black	there is one tower which has a black block over a
+block	there is one tower which has a black block over a black
+</s>	there is one tower which has a black block over a black block
+there	
+is	there
+exactly	there is
+one	there is exactly
+black	there is exactly one
+object	there is exactly one black
+touching	there is exactly one black object
+the	there is exactly one black object touching
+edge	there is exactly one black object touching the
+</s>	there is exactly one black object touching the edge
+there	
+are	there
+two	there are
+boxes	there are two
+that	there are two boxes
+has	there are two boxes that
+two	there are two boxes that has
+different	there are two boxes that has two
+shapes	there are two boxes that has two different
+yellow	there are two boxes that has two different shapes
+items	there are two boxes that has two different shapes yellow
+</s>	there are two boxes that has two different shapes yellow items
+there	
+is	there
+at	there is
+least	there is at
+one	there is at least
+black	there is at least one
+circle	there is at least one black
+touching	there is at least one black circle
+the	there is at least one black circle touching
+base	there is at least one black circle touching the
+</s>	there is at least one black circle touching the base
+there	
+is	there
+exactly	there is
+one	there is exactly
+black	there is exactly one
+circle	there is exactly one black
+touching	there is exactly one black circle
+the	there is exactly one black circle touching
+base	there is exactly one black circle touching the
+</s>	there is exactly one black circle touching the base
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+two	there is a box with
+yellow	there is a box with two
+squares	there is a box with two yellow
+</s>	there is a box with two yellow squares
+there	
+is	there
+a	there is
+grey	there is a
+box	there is a grey
+with	there is a grey box
+exactly	there is a grey box with
+two	there is a grey box with exactly
+objects	there is a grey box with exactly two
+</s>	there is a grey box with exactly two objects
+there	
+are	there
+two	there are
+black	there are two
+circles	there are two black
+not	there are two black circles
+touching	there are two black circles not
+any	there are two black circles not touching
+edge	there are two black circles not touching any
+</s>	there are two black circles not touching any edge
+one	
+of	one
+the	one of
+three	one of the
+towers	one of the three
+base	one of the three towers
+is	one of the three towers base
+yellow	one of the three towers base is
+</s>	one of the three towers base is yellow
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+a	there is a box with
+black	there is a box with a
+circle	there is a box with a black
+and	there is a box with a black circle
+2	there is a box with a black circle and
+black	there is a box with a black circle and 2
+triangles	there is a box with a black circle and 2 black
+</s>	there is a box with a black circle and 2 black triangles
+there	
+are	there
+2	there are
+boxes	there are 2
+with	there are 2 boxes
+at	there are 2 boxes with
+least	there are 2 boxes with at
+1	there are 2 boxes with at least
+black	there are 2 boxes with at least 1
+item	there are 2 boxes with at least 1 black
+</s>	there are 2 boxes with at least 1 black item
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+two	there is a box with
+circles	there is a box with two
+and	there is a box with two circles
+a	there is a box with two circles and
+yellow	there is a box with two circles and a
+triangle	there is a box with two circles and a yellow
+</s>	there is a box with two circles and a yellow triangle
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+3	there is a box with
+items	there is a box with 3
+at	there is a box with 3 items
+most	there is a box with 3 items at
+of	there is a box with 3 items at most
+only	there is a box with 3 items at most of
+one	there is a box with 3 items at most of only
+color	there is a box with 3 items at most of only one
+</s>	there is a box with 3 items at most of only one color
+there	
+is	there
+1	there is
+tower	there is 1
+with	there is 1 tower
+a	there is 1 tower with
+blue	there is 1 tower with a
+block	there is 1 tower with a blue
+at	there is 1 tower with a blue block
+the	there is 1 tower with a blue block at
+top	there is 1 tower with a blue block at the
+</s>	there is 1 tower with a blue block at the top
+there	
+is	there
+a	there is
+tower	there is a
+with	there is a tower
+a	there is a tower with
+black	there is a tower with a
+block	there is a tower with a black
+above	there is a tower with a black block
+a	there is a tower with a black block above
+black	there is a tower with a black block above a
+block	there is a tower with a black block above a black
+and	there is a tower with a black block above a black block
+a	there is a tower with a black block above a black block and
+blue	there is a tower with a black block above a black block and a
+block	there is a tower with a black block above a black block and a blue
+at	there is a tower with a black block above a black block and a blue block
+the	there is a tower with a black block above a black block and a blue block at
+base	there is a tower with a black block above a black block and a blue block at the
+</s>	there is a tower with a black block above a black block and a blue block at the base
+there	
+is	there
+one	there is
+box	there is one
+with	there is one box
+at	there is one box with
+least	there is one box with at
+1	there is one box with at least
+blue	there is one box with at least 1
+square	there is one box with at least 1 blue
+and	there is one box with at least 1 blue square
+1	there is one box with at least 1 blue square and
+blue	there is one box with at least 1 blue square and 1
+triangle	there is one box with at least 1 blue square and 1 blue
+</s>	there is one box with at least 1 blue square and 1 blue triangle
+there	
+is	there
+1	there is
+box	there is 1
+with	there is 1 box
+exactly	there is 1 box with
+1	there is 1 box with exactly
+item	there is 1 box with exactly 1
+in	there is 1 box with exactly 1 item
+it	there is 1 box with exactly 1 item in
+</s>	there is 1 box with exactly 1 item in it
+there	
+is	there
+at	there is
+least	there is at
+1	there is at least
+blue	there is at least 1
+item	there is at least 1 blue
+in	there is at least 1 blue item
+each	there is at least 1 blue item in
+box	there is at least 1 blue item in each
+</s>	there is at least 1 blue item in each box
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+only	there is a box with
+one	there is a box with only
+black	there is a box with only one
+item	there is a box with only one black
+</s>	there is a box with only one black item
+there	
+is	there
+a	there is
+box	there is a
+that	there is a box
+a	there is a box that
+black	there is a box that a
+and	there is a box that a black
+blue	there is a box that a black and
+items	there is a box that a black and blue
+are	there is a box that a black and blue items
+touching	there is a box that a black and blue items are
+side	there is a box that a black and blue items are touching
+of	there is a box that a black and blue items are touching side
+the	there is a box that a black and blue items are touching side of
+box	there is a box that a black and blue items are touching side of the
+</s>	there is a box that a black and blue items are touching side of the box
+there	
+is	there
+at	there is
+least	there is at
+1	there is at least
+black	there is at least 1
+block	there is at least 1 black
+in	there is at least 1 black block
+each	there is at least 1 black block in
+tower	there is at least 1 black block in each
+</s>	there is at least 1 black block in each tower
+there	
+are	there
+two	there are
+blue	there are two
+blocks	there are two blue
+as	there are two blue blocks
+the	there are two blue blocks as
+base	there are two blue blocks as the
+of	there are two blue blocks as the base
+a	there are two blue blocks as the base of
+tower	there are two blue blocks as the base of a
+</s>	there are two blue blocks as the base of a tower
+there	
+is	there
+exactly	there is
+one	there is exactly
+yellow	there is exactly one
+triangle	there is exactly one yellow
+touching	there is exactly one yellow triangle
+the	there is exactly one yellow triangle touching
+edge	there is exactly one yellow triangle touching the
+</s>	there is exactly one yellow triangle touching the edge
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+three	there is a box with
+black	there is a box with three
+items	there is a box with three black
+</s>	there is a box with three black items
+there	
+are	there
+2	there are
+boxes	there are 2
+with	there are 2 boxes
+items	there are 2 boxes with
+of	there are 2 boxes with items
+only	there are 2 boxes with items of
+2	there are 2 boxes with items of only
+different	there are 2 boxes with items of only 2
+colors	there are 2 boxes with items of only 2 different
+</s>	there are 2 boxes with items of only 2 different colors
+there	
+are	there
+two	there are
+black	there are two
+items	there are two black
+closely	there are two black items
+touching	there are two black items closely
+the	there are two black items closely touching
+bottom	there are two black items closely touching the
+of	there are two black items closely touching the bottom
+a	there are two black items closely touching the bottom of
+box	there are two black items closely touching the bottom of a
+</s>	there are two black items closely touching the bottom of a box
+there	
+is	there
+exactly	there is
+one	there is exactly
+black	there is exactly one
+square	there is exactly one black
+touching	there is exactly one black square
+the	there is exactly one black square touching
+base	there is exactly one black square touching the
+</s>	there is exactly one black square touching the base
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+a	there is a box with
+black	there is a box with a
+item	there is a box with a black
+a	there is a box with a black item
+yellow	there is a box with a black item a
+item	there is a box with a black item a yellow
+and	there is a box with a black item a yellow item
+at	there is a box with a black item a yellow item and
+least	there is a box with a black item a yellow item and at
+one	there is a box with a black item a yellow item and at least
+blue	there is a box with a black item a yellow item and at least one
+item	there is a box with a black item a yellow item and at least one blue
+</s>	there is a box with a black item a yellow item and at least one blue item
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+3	there is a box with
+items	there is a box with 3
+of	there is a box with 3 items
+only	there is a box with 3 items of
+black	there is a box with 3 items of only
+and	there is a box with 3 items of only black
+yellow	there is a box with 3 items of only black and
+color	there is a box with 3 items of only black and yellow
+</s>	there is a box with 3 items of only black and yellow color
+there	
+is	there
+a	there is
+tower	there is a
+with	there is a tower
+four	there is a tower with
+blocks	there is a tower with four
+including	there is a tower with four blocks
+two	there is a tower with four blocks including
+black	there is a tower with four blocks including two
+ones	there is a tower with four blocks including two black
+</s>	there is a tower with four blocks including two black ones
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+3	there is a box with
+items	there is a box with 3
+of	there is a box with 3 items
+which	there is a box with 3 items of
+2	there is a box with 3 items of which
+are	there is a box with 3 items of which 2
+black	there is a box with 3 items of which 2 are
+</s>	there is a box with 3 items of which 2 are black
+there	
+is	there
+1	there is
+tower	there is 1
+with	there is 1 tower
+1	there is 1 tower with
+black	there is 1 tower with 1
+block	there is 1 tower with 1 black
+at	there is 1 tower with 1 black block
+the	there is 1 tower with 1 black block at
+top	there is 1 tower with 1 black block at the
+</s>	there is 1 tower with 1 black block at the top
+there	
+is	there
+no	there is
+item	there is no
+closely	there is no item
+touching	there is no item closely
+the	there is no item closely touching
+bottom	there is no item closely touching the
+of	there is no item closely touching the bottom
+a	there is no item closely touching the bottom of
+box	there is no item closely touching the bottom of a
+</s>	there is no item closely touching the bottom of a box
+the	
+top	the
+of	the top
+a	the top of
+two	the top of a
+blocks	the top of a two
+tower	the top of a two blocks
+is	the top of a two blocks tower
+blue	the top of a two blocks tower is
+</s>	the top of a two blocks tower is blue
+there	
+is	there
+a	there is
+yellow	there is a
+block	there is a yellow
+as	there is a yellow block
+the	there is a yellow block as
+top	there is a yellow block as the
+of	there is a yellow block as the top
+a	there is a yellow block as the top of
+tower	there is a yellow block as the top of a
+with	there is a yellow block as the top of a tower
+blue	there is a yellow block as the top of a tower with
+blocks	there is a yellow block as the top of a tower with blue
+</s>	there is a yellow block as the top of a tower with blue blocks
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+only	there is a box with
+2	there is a box with only
+black	there is a box with only 2
+and	there is a box with only 2 black
+yellow	there is a box with only 2 black and
+items	there is a box with only 2 black and yellow
+</s>	there is a box with only 2 black and yellow items
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+4	there is a box with
+items	there is a box with 4
+of	there is a box with 4 items
+which	there is a box with 4 items of
+one	there is a box with 4 items of which
+is	there is a box with 4 items of which one
+a	there is a box with 4 items of which one is
+blue	there is a box with 4 items of which one is a
+item	there is a box with 4 items of which one is a blue
+and	there is a box with 4 items of which one is a blue item
+3	there is a box with 4 items of which one is a blue item and
+are	there is a box with 4 items of which one is a blue item and 3
+yellow	there is a box with 4 items of which one is a blue item and 3 are
+items	there is a box with 4 items of which one is a blue item and 3 are yellow
+</s>	there is a box with 4 items of which one is a blue item and 3 are yellow items
+there	
+is	there
+a	there is
+box	there is a
+that	there is a box
+has	there is a box that
+three	there is a box that has
+blue	there is a box that has three
+circles	there is a box that has three blue
+</s>	there is a box that has three blue circles
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+only	there is a box with
+3	there is a box with only
+items	there is a box with only 3
+</s>	there is a box with only 3 items
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+2	there is a box with
+items	there is a box with 2
+of	there is a box with 2 items
+which	there is a box with 2 items of
+1	there is a box with 2 items of which
+is	there is a box with 2 items of which 1
+blue	there is a box with 2 items of which 1 is
+</s>	there is a box with 2 items of which 1 is blue
+there	
+is	there
+1	there is
+tower	there is 1
+with	there is 1 tower
+exactly	there is 1 tower with
+2	there is 1 tower with exactly
+yellow	there is 1 tower with exactly 2
+blocks	there is 1 tower with exactly 2 yellow
+stacked	there is 1 tower with exactly 2 yellow blocks
+together	there is 1 tower with exactly 2 yellow blocks stacked
+</s>	there is 1 tower with exactly 2 yellow blocks stacked together
+there	
+is	there
+a	there is
+black	there is a
+triangle	there is a black
+touching	there is a black triangle
+the	there is a black triangle touching
+side	there is a black triangle touching the
+</s>	there is a black triangle touching the side
+there	
+is	there
+a	there is
+tower	there is a
+with	there is a tower
+four	there is a tower with
+blocks	there is a tower with four
+having	there is a tower with four blocks
+a	there is a tower with four blocks having
+black	there is a tower with four blocks having a
+block	there is a tower with four blocks having a black
+above	there is a tower with four blocks having a black block
+a	there is a tower with four blocks having a black block above
+black	there is a tower with four blocks having a black block above a
+block	there is a tower with four blocks having a black block above a black
+</s>	there is a tower with four blocks having a black block above a black block
+there	
+is	there
+1	there is
+box	there is 1
+with	there is 1 box
+only	there is 1 box with
+blue	there is 1 box with only
+and	there is 1 box with only blue
+black	there is 1 box with only blue and
+items	there is 1 box with only blue and black
+</s>	there is 1 box with only blue and black items
+there	
+is	there
+a	there is
+box	there is a
+with	there is a box
+a	there is a box with
+triangle	there is a box with a
+and	there is a box with a triangle
+at	there is a box with a triangle and
+least	there is a box with a triangle and at
+one	there is a box with a triangle and at least
+black	there is a box with a triangle and at least one
+circle	there is a box with a triangle and at least one black
+</s>	there is a box with a triangle and at least one black circle
+there	
+is	there
+no	there is
+blue	there is no
+circle	there is no blue
+of	there is no blue circle
+medium	there is no blue circle of
+size	there is no blue circle of medium
+touching	there is no blue circle of medium size
+the	there is no blue circle of medium size touching
+wall	there is no blue circle of medium size touching the
+</s>	there is no blue circle of medium size touching the wall
+there	
+is	there
+at	there is
+least	there is at
+one	there is at least
+tower	there is at least one
+with	there is at least one tower
+only	there is at least one tower with
+one	there is at least one tower with only
+yellow	there is at least one tower with only one
+block	there is at least one tower with only one yellow
+</s>	there is at least one tower with only one yellow block
+there	
+is	there
+exactly	there is
+one	there is exactly
+tower	there is exactly one
+with	there is exactly one tower
+four	there is exactly one tower with
+blocks	there is exactly one tower with four
+</s>	there is exactly one tower with four blocks
+there	
+are	there
+2	there are
+towers	there are 2
+with	there are 2 towers
+a	there are 2 towers with
+black	there are 2 towers with a
+block	there are 2 towers with a black
+at	there are 2 towers with a black block
+the	there are 2 towers with a black block at
+top	there are 2 towers with a black block at the
+</s>	there are 2 towers with a black block at the top
+there	
+are	there
+two	there are
+boxes	there are two
+with	there are two boxes
+multiple	there are two boxes with
+items	there are two boxes with multiple
+and	there are two boxes with multiple items
+each	there are two boxes with multiple items and
+has	there are two boxes with multiple items and each
+two	there are two boxes with multiple items and each has
+black	there are two boxes with multiple items and each has two
+items	there are two boxes with multiple items and each has two black
+</s>	there are two boxes with multiple items and each has two black items

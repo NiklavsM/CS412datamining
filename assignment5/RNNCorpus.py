@@ -69,7 +69,7 @@ def read_dataset(
             if (len(line_parts) > 1):  # convering to low case and adding spaces between any punctuation:
                 s1 = line_parts[1].lower().replace(',', ' , ').replace(';', ' ; ').replace(':', ' : ').replace('"',
                                                                                                                ' " ').replace(
-                    "'", " ' ").replace("-", " - ").replace("(", " ( ").replace(")", " ) ").replace("/", " / ").replace(
+                    "'", " ' ").replace("-", " - ").replace("(", " ( ").replace(")", " ) ").replace(
                     "?", " ? ").replace("!", " ! ").replace(".", " . ")
                 dataset.append((line_parts[0], s1))
     return dataset
@@ -104,8 +104,8 @@ def sentence2ids(words, word2id):  # Converts a word sequence (sentence) into a 
     return ids
 
 
-path_train = "data/train-shuffle2.txt"
-path_test = "data/test-shuffle2.txt"
+path_train = "data/trainForGRU.txt"
+path_test = "data/testForGRU.txt"
 
 sentences_train = read_dataset(path_train)
 sentences_test = read_dataset(path_test)
@@ -124,17 +124,17 @@ def generate_sentence(start):
     while True:
         cost, predicted_class = test(sv, 1)
         count += 1
-        if predicted_class == word2id["</s>"] or count > 100:
+        if predicted_class == word2id["</s>"] or count > 10:
             break
         else:
             if predicted_class < len(word2id):
-                word = word2id.items()[predicted_class][0]
+                word = list(word2id.items())[predicted_class][0]
                 sv.append(predicted_class)
             else:
                 word = "<unk>"
                 sv.append(word2id["<unk>"])
             s += word + " "
-        print(s)
+    print(s)
 
 
 # The rest of the code is similar to the MNIST task:

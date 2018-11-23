@@ -1,0 +1,202 @@
+1	there is a tower which has two black blocks </s>
+0	tower has blocks which is two black a there </s>
+1	there is exactly one circle closely touching right wall of a box </s>
+0	one touching is there a closely of exactly wall right box circle </s>
+1	there is 1 box with 1 yellow item and 1 blue item </s>
+0	blue 1 yellow with there item is box 1 1 and item </s>
+1	there is a four blocks tower that the base and top is yellow </s>
+0	there yellow base tower is a top four is that the and blocks </s>
+1	two of the three towers has a black top </s>
+0	three top black the towers a of has two </s>
+1	there is only one black item closely touching the bottom of a box </s>
+0	is bottom item of box closely touching there only black one a the </s>
+1	there is at least one yellow block on a black block </s>
+0	there at yellow black block is one on a block least </s>
+1	there is a box with a black triangle at least one blue circle and yellow items </s>
+0	a there is least blue at black one items a box triangle with yellow circle and </s>
+1	there is a box with a blue square and a black circle </s>
+0	a circle with square is black a a and box there blue </s>
+1	there is no black triangle closely touching right wall of a box </s>
+0	touching of there triangle black a no box wall right closely is </s>
+1	there are two yellow items touching each other </s>
+0	touching two yellow each are items there other </s>
+1	there is a box which has three items </s>
+0	box there which a three has is items </s>
+1	there is a box with a blue item touching the wall and a black one right on top of it </s>
+0	on a there wall of item a top touching box the black with right one is and a blue it </s>
+1	at least one of the grey square contains exactly one object which is a triangle </s>
+0	which contains the a one grey triangle object one square at least is of exactly </s>
+1	the grey box with least number of objects contains one blue circle </s>
+0	grey least contains with box blue of number the objects circle one </s>
+1	there is 1 tower with at least 1 yellow block </s>
+0	block 1 with tower there at is least yellow 1 </s>
+1	black square is not touching any edge </s>
+0	not is touching black square any edge </s>
+1	there is 1 tower that is made of only 1 block </s>
+0	made only is block that 1 of is 1 tower there </s>
+1	there is one tower with exactly two objects </s>
+0	tower two there with one is exactly objects </s>
+1	there is 1 tower with 1 black block at the base </s>
+0	block with the base at 1 there is tower black 1 </s>
+1	there is a tower which has a blue block over a blue block </s>
+0	a a blue has over block which is there tower a blue block </s>
+1	there is at least one blue block as the top of a tower </s>
+0	blue least block as tower of the top is one there a at </s>
+1	there are 2 blue triangles and 2 black triangles </s>
+0	triangles 2 blue are and black there triangles 2 </s>
+1	there are exactly two towers with a black block at the base </s>
+0	at base there towers block two are with exactly black a the </s>
+1	there is at least one tower with four blocks </s>
+0	with tower four blocks is least one there at </s>
+1	there is 1 box with exactly 1 circle in it </s>
+0	box with exactly it 1 in 1 circle is there </s>
+1	there is a box with a yellow square and two black squares </s>
+0	square squares with box there two is and yellow black a a </s>
+1	there is a box with exactly three items including blue square </s>
+0	box three a exactly items blue there including with square is </s>
+1	there is a triangle closely touching the bottom of a box </s>
+0	there a a touching closely the box bottom of is triangle </s>
+1	there is a box with 3 items at most of 2 different colors at most </s>
+0	items most 2 is of colors at most with a box 3 there at different </s>
+1	all yellow circles are touching the edge </s>
+0	all yellow edge are touching circles the </s>
+1	there is a tower with two yellow blocks </s>
+0	tower a yellow with two is blocks there </s>
+1	there is 1 tower with at least 1 black block </s>
+0	at tower 1 there least 1 is with block black </s>
+1	there are 2 squares with 1 black item </s>
+0	there item squares 1 2 are black with </s>
+1	there is at least 1 tower with a yellow block at the bottom </s>
+0	at at bottom with yellow a least block 1 tower the there is </s>
+1	there is a box with at least three blue items </s>
+0	a box items there at least is with three blue </s>
+1	there are two yellow blocks as the base of a tower </s>
+0	a are two of the as base yellow blocks tower there </s>
+1	there is exactly one black triangle not touching the edge </s>
+0	one not there exactly black edge triangle is the touching </s>
+1	there are only two towers with yellow blocks and at least one of them has yellow block as the top of a tower </s>
+0	one at them top tower block least as only of towers with blocks yellow the two yellow and of a has there are </s>
+1	there are exactly three black circles not touching any edge </s>
+0	are not touching black there circles exactly any three edge </s>
+1	there is a back block of at least one tower </s>
+0	is least at block there tower back of a one </s>
+1	there are at least 4 black blocks </s>
+0	there are black least 4 blocks at </s>
+1	there is a tower with more than two blocks having a yellow block at base </s>
+0	a having is there yellow two at base block a tower blocks with more than </s>
+1	there is block which has an exactly one object which is of yellow color </s>
+0	object which one exactly is which there has color of block yellow is an </s>
+1	there is a blue block below a yellow block </s>
+0	there block below is a yellow block blue a </s>
+1	there are two items closely touching the bottom of a box </s>
+0	bottom the of closely there are touching items a box two </s>
+1	there is exactly one black triangle touching the base </s>
+0	black triangle is the one exactly base there touching </s>
+1	there is no tower with three blocks </s>
+0	is blocks with three no there tower </s>
+1	there are black blocks in each tower and the positions are the same </s>
+0	black and the tower blocks in positions the there each are are same </s>
+1	there is a single block tower and the color is yellow </s>
+0	block the yellow color tower a is and single is there </s>
+1	there is a box with only yellow items </s>
+0	there is items a box with yellow only </s>
+1	there is one tower which has a black block over a black block </s>
+0	has which block a a is over block black there tower black one </s>
+1	there is exactly one black object touching the edge </s>
+0	edge the touching one black exactly is object there </s>
+1	there are two boxes that has two different shapes yellow items </s>
+0	boxes are yellow shapes two has different items that there two </s>
+1	there is at least one black circle touching the base </s>
+0	there the base touching is one at circle black least </s>
+1	there is exactly one black circle touching the base </s>
+0	one black touching circle is exactly there base the </s>
+1	there is a box with two yellow squares </s>
+0	box there two is yellow a with squares </s>
+1	there is a grey box with exactly two objects </s>
+0	two with grey there exactly box a objects is </s>
+1	there are two black circles not touching any edge </s>
+0	edge two touching there black not any are circles </s>
+1	one of the three towers base is yellow </s>
+0	one is the yellow base towers of three </s>
+1	there is a box with a black circle and 2 black triangles </s>
+0	and black a with 2 circle box black triangles a there is </s>
+1	there are 2 boxes with at least 1 black item </s>
+0	there are boxes 1 at least item with black 2 </s>
+1	there is a box with two circles and a yellow triangle </s>
+0	two is a with a and triangle box yellow there circles </s>
+1	there is a box with 3 items at most of only one color </s>
+0	color at one is 3 with a items of box most there only </s>
+1	there is 1 tower with a blue block at the top </s>
+0	blue top 1 at block tower the with there is a </s>
+1	there is a tower with a black block above a black block and a blue block at the base </s>
+0	base block a with above a block black is the a there a and blue tower block black at </s>
+1	there is one box with at least 1 blue square and 1 blue triangle </s>
+0	with least square blue 1 is box at and there triangle one 1 blue </s>
+1	there is 1 box with exactly 1 item in it </s>
+0	there item with 1 is it box 1 exactly in </s>
+1	there is at least 1 blue item in each box </s>
+0	is in least there blue 1 at box each item </s>
+1	there is a box with only one black item </s>
+0	black is there box item only with a one </s>
+1	there is a box that a black and blue items are touching side of the box </s>
+0	are black touching of items box box side is a the blue there that and a </s>
+1	there is at least 1 black block in each tower </s>
+0	each 1 there block is black in at least tower </s>
+1	there are two blue blocks as the base of a tower </s>
+0	of there blue as blocks base are two tower the a </s>
+1	there is exactly one yellow triangle touching the edge </s>
+0	one there yellow triangle touching the edge exactly is </s>
+1	there is a box with three black items </s>
+0	black box items there three with a is </s>
+1	there are 2 boxes with items of only 2 different colors </s>
+0	different there boxes only with colors 2 items 2 are of </s>
+1	there are two black items closely touching the bottom of a box </s>
+0	a bottom black are box two closely the there of touching items </s>
+1	there is exactly one black square touching the base </s>
+0	the square is touching one black there exactly base </s>
+1	there is a box with a black item a yellow item and at least one blue item </s>
+0	box a item at with item blue black one a item and yellow least is there a </s>
+1	there is a box with 3 items of only black and yellow color </s>
+0	black color and only box with items yellow a of there is 3 </s>
+1	there is a tower with four blocks including two black ones </s>
+0	there including tower a ones blocks four with two black is </s>
+1	there is a box with 3 items of which 2 are black </s>
+0	box there 2 items black 3 is with which are a of </s>
+1	there is 1 tower with 1 black block at the top </s>
+0	block is the tower at 1 top 1 there black with </s>
+1	there is no item closely touching the bottom of a box </s>
+0	a box touching no of bottom the closely there item is </s>
+1	the top of a two blocks tower is blue </s>
+0	is two tower blocks a the of top blue </s>
+1	there is a yellow block as the top of a tower with blue blocks </s>
+0	block a yellow tower is blue as of with a the top there blocks </s>
+1	there is a box with only 2 black and yellow items </s>
+0	yellow box only black is with there items and 2 a </s>
+1	there is a box with 4 items of which one is a blue item and 3 are yellow items </s>
+0	items of 4 a box with item items blue a is is and 3 one yellow which there are </s>
+1	there is a box that has three blue circles </s>
+0	blue is has a that circles three there box </s>
+1	there is a box with only 3 items </s>
+0	items there only is 3 with a box </s>
+1	there is a box with 2 items of which 1 is blue </s>
+0	2 is a blue is with box items which of 1 there </s>
+1	there is 1 tower with exactly 2 yellow blocks stacked together </s>
+0	there together stacked blocks 1 tower 2 yellow with is exactly </s>
+1	there is a black triangle touching the side </s>
+0	there is a the triangle side touching black </s>
+1	there is a tower with four blocks having a black block above a black block </s>
+0	with having there block a a is block blocks above black a four tower black </s>
+1	there is 1 box with only blue and black items </s>
+0	black box 1 is with blue there and items only </s>
+1	there is a box with a triangle and at least one black circle </s>
+0	with at black triangle and one circle box is least there a a </s>
+1	there is no blue circle of medium size touching the wall </s>
+0	wall touching no the medium of size there circle blue is </s>
+1	there is at least one tower with only one yellow block </s>
+0	with tower at one least only yellow is there one block </s>
+1	there is exactly one tower with four blocks </s>
+0	four exactly one tower there is with blocks </s>
+1	there are 2 towers with a black block at the top </s>
+0	top 2 the at towers there are block a black with </s>
+1	there are two boxes with multiple items and each has two black items </s>
+0	items items are there black two two with each multiple and has boxes </s>
